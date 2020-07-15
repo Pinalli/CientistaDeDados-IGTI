@@ -1,0 +1,3 @@
+Active = (confirmed - (recovered + deaths))
+
+Active = SUM(covid_19_data[Confirmed]) - (SUM(covid_19_data[Deaths]) + SUM(covid_19_data[Recovered]))

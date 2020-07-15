@@ -1,0 +1,3 @@
+Definir numero de clusters
+
+https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9
